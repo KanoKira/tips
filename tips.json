@@ -1,26 +1,27 @@
-﻿[
-  {
-    "tips": "看看设备电量，小心低电量提示导致断连",
-    "creator": "M.G.R.B"
-  },
-  {
-    "tips": "数学真的太难啦！！",
-    "creator": "M.G.R.B"
-  },
-  {
-    "tips": "那么数学作业写完了吗？",
-    "creator": "欧阳羚凤"
-  },
-  {
-    "tips": "无聊的话来做点题吧？sin18º＝？",
-    "creator": "Merlot_Fallen"
-  },
-  {
-    "tips": "音游是人类进步的阶梯，目害不是",
-    "creator": "冻di绿苹果"
-  },
-  {
-    "tips": "什么?这个音游也有tips!",
-    "creator": "云玄司"
-  }
-]
+﻿{
+  "all":[
+    {
+      "tips": "看看设备电量，小心低电量提示导致断连",
+      "creator": "M.G.R.B"
+    },
+    {
+      "tips": "数学真的太难啦！！",
+      "creator": "M.G.R.B"
+    },
+    {
+      "tips": "那么数学作业写完了吗？",
+      "creator": "欧阳羚凤"
+    },
+    {
+      "tips": "无聊的话来做点题吧？sin18º＝？",
+      "creator": "Merlot_Fallen"
+    },
+    {
+      "tips": "音游是人类进步的阶梯，目害不是",
+      "creator": "冻di绿苹果"
+    },
+    {
+      "tips": "什么?这个音游也有tips!",
+      "creator": "云玄司"
+    }]
+}
