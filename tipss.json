@@ -167,6 +167,10 @@
     {
       "tips":"哦，我的老天爷啊，这竟然是一条tip!!!",
       "creator": "Errore"
+    },
+    {
+      "tips":"(谱师 as 程序).写谱();",
+      "creator": "Errore"
     }
   ]
 }
